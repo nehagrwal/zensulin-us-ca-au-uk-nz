@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/zensulin-us-ca-au-uk-nz/sitemap.xml
+Sitemap: https://zensulin-us-ca-au-uk-nz.vercel.app/sitemap-vercel.xml
+Sitemap: https://zensulin-us-ca-au-uk-nz.pages.dev/sitemap-cloudflare.xml
